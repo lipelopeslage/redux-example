@@ -1,0 +1,14 @@
+{
+  "name": "redux-hellow-world",
+  "version": "0.0.0",
+  "description": "Redux Hello World",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lipelopeslage/redux-example.git"
+  },
+  "dependencies": {
+    "redux": "latest"
+  },
+  "author": "Felipe Lopes Lage (@lipelopeslage)"
+}
